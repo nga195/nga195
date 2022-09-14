@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nga195
-- 👀 I’m interested in binge watching Netlix :) *feeling guilty 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects involving Python
+- 👋 Hi, I’m
+- 👀 I’m interested in 
+- 🌱 I’m currently 
+- 💞️ I’m looking to 
 - 📫 How to reach me 
 
 <!---
